@@ -9,3 +9,5 @@ The project titled "Zero Day Options (0DTE) : The High-Stakes World of Same-Day 
 The study critically examines differing perspectives on whether 0DTE trading exacerbates market volatility, incorporating a discussion on the newly introduced VIX1D index, which measures intraday volatility. Additionally, it reviews two academic papers on 0DTE pricing methodologies without delving into complex mathematics.
 
 Key aspects such as trading mechanisms, strategies, regulatory concerns, and implications for business and economic stability are thoroughly analyzed. The conclusions emphasize the necessity for regulatory oversight to balance innovation with risk mitigation in this rapidly evolving market segment.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharma-Amol)](https://github.com/anuraghazra/github-readme-stats)
