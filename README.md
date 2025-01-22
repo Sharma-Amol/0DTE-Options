@@ -10,4 +10,4 @@ The study critically examines differing perspectives on whether 0DTE trading exa
 
 Key aspects such as trading mechanisms, strategies, regulatory concerns, and implications for business and economic stability are thoroughly analyzed. The conclusions emphasize the necessity for regulatory oversight to balance innovation with risk mitigation in this rapidly evolving market segment.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharma-Amol)](https://github.com/anuraghazra/github-readme-stats)
+
